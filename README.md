@@ -14,7 +14,6 @@ Mostly copied from https://jekyllrb.com/tutorials/using-jekyll-with-bundler/
     4. $ bundle install
     5. $ bundle exec jekyll new --force --skip-bundle .
     6. $ bundle install
-    7. bundle update
 
 ### Rebuild Static site & view it
     1. < cd to github pages root project directory >
