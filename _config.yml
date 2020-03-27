@@ -19,7 +19,7 @@ email: dtgerhardt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Systems Engineer since 2009
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://davidgerhardt.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://davidgerhardt.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: davidgerhardt
 github_username: dtgerhardt
 
