@@ -23,6 +23,9 @@ url: "https://davidgerhardt.com" # the base hostname & protocol for your site, e
 linkedin_username: davidgerhardt
 github_username: dtgerhardt
 
+# Google Analytics
+google_analytics: UA-162675196-1
+
 # Build settings
 markdown: kramdown
 theme: minima
